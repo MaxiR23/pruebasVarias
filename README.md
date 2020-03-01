@@ -10,7 +10,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-<img src="https://github.com/MaxiR23/pruebasVarias/blob/master/assets/giphy.gif">
+![giphy](https://user-images.githubusercontent.com/55162138/75634797-6e0eda80-5bef-11ea-80cb-c7f33e31aff9.gif)
 
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
