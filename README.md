@@ -6,7 +6,7 @@
 
 This project is a starting point for a Flutter application.
 
-<img src="assets/captura">
+<img src="https://github.com/MaxiR23/pruebasVarias/blob/master/assets/captura.jpg">
 
 A few resources to get you started if this is your first Flutter project:
 
