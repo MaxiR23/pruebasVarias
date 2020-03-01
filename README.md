@@ -1,6 +1,6 @@
 # PruebaGit 
 
-Este repositorio se usará para pruebas.
+![] (https://github.com/MaxiR23/pruebasVarias/blob/master/assets/logo7-original.png)
 
 ## Para empezar 
 
